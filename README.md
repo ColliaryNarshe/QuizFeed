@@ -1,9 +1,8 @@
 ## QuizFeed
-<br>
+
 A study program that feeds the user questions and answers.
 
 ### Setup
-<br>
 
 Add a quiz text file to /quizes directory. Quiz files use a specific code to differentiate between questions and answers. <br><br>To make one, try one of the three following methods:
 
@@ -16,5 +15,5 @@ Add a quiz text file to /quizes directory. Quiz files use a specific code to dif
 * If you wish to use other directories besides /quizes for your quiz files, you can add new paths from the File menu.
 
 ### Usage
-<br>
+
 To run a quiz, select a file from the list and press Enter, or double-click with the mouse. Press F on your keyboard to change the font size, and open the 'Quiz' dropdown menu to see other options.

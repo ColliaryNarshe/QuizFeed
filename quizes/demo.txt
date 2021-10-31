@@ -1,0 +1,19 @@
+
+Q: Who first created Python?
+A: Guido van Rossum
+
+------------- (Lines that start with at least 4 dashes are ignored.)
+
+Q: How can I create my own quiz file?
+Q: How can I save hard questions to study later or even make a file with?
+Q: Is there a way to type my answers while taking the quiz?
+
+---- You can group questions together like this, so long as the number still match answers below.
+
+A: You can use the QuizEditor from the File menu.
+
+Then save it into the quizes folder.
+A: Simply press S on your keyboard, or click on the "Quiz" dropdown menu.
+A: Try pressing CTRL-T
+
+----Note that you can use multiple lines for one question or answer.

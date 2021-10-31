@@ -1,0 +1,10 @@
+**/__pycache__
+
+data/
+
+images/display
+
+quizes/*.txt
+!quizes/demo.txt
+
+changelog.txt

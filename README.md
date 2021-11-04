@@ -8,7 +8,7 @@ Add a quiz text file to /quizes directory. Quiz files use a specific code to dif
 
 1. The Quiz Editor from the File menu.
 
-2. Create a quiz file manually by making a .txt file and adding "Q: " and "A: " codes (note the spaces) at the start of lines. Open demo.txt in a text editor to see an example.
+2. Create a quiz file manually by making a .txt file and adding "Q: " and "A: " codes (note the whitespace) at the start of lines. Open demo.txt in a text editor to see an example.
 
 3. Convert a regular text file in /quizes, using the "Convert to QF Format" in the Tools menu. This will take the first line of the text and mark it as a question, then the second line as an answer, and so on until the end of the file. Blank lines are ignored. (Note: You can find the option to view and select normal text files in the File menu.) The downside to this method is each Q&A are only one line each.
 
